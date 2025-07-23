@@ -1,11 +1,11 @@
 export const darkTheme = {
-  bg: "#2e1437",                  // dark plum
+  bg: "#5a2d68ff",                  // dark plum
   bgLight: "#3d1c4d",             // soft dark purple
   primary: "#f78fb3",             // soft pink
   text_primary: "#f2e9f3",        // pale pink-white
   text_secondary: "#b88bac",      // muted mauve
-  card: "#3c254e",
-  card_light: "#44275a",
+  card: "#54366aff",
+  card_light: "#503068ff",
   button: "#e67cbf",              // muted bright pink
   white: "#ffffff",
   black: "#000000"
