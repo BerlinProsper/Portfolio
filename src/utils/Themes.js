@@ -1,22 +1,24 @@
 export const darkTheme = {
-    bg:"#1c1c27",
-    bgLight: "#845ce6",
-    primary:"#f2f3f4",
-    text_primary:"#f2f3f4",
-    text_secondary:"#b1b2b3",
-    card:"#171721",
-    card_light: '#1919294',
-    button:"#845ce6",
-    white:"#FFFFFF",
-    black:"#000000",
+  bg: "#2e1437",                  // dark plum
+  bgLight: "#3d1c4d",             // soft dark purple
+  primary: "#f78fb3",             // soft pink
+  text_primary: "#f2e9f3",        // pale pink-white
+  text_secondary: "#b88bac",      // muted mauve
+  card: "#3c254e",
+  card_light: "#44275a",
+  button: "#e67cbf",              // muted bright pink
+  white: "#ffffff",
+  black: "#000000"
 }
 
 export const lightTheme = {
-    bg:"#FFFFFF",
-    bgLight: "#f0f0f0",
-    primary:"#be1adb",
-    text_primary:"#111111",
-    text_secondary:"#48494a",
-    card:"#FFFFFF",
-    button:"#5c5b5b",
+  bg: "#fff0f5",                  // lavender blush
+  bgLight: "#ffe4e1",             // misty rose
+  primary: "#ff69b4",             // hot pink
+  text_primary: "#3b2e35",        // deep mauve
+  text_secondary: "#7f6a78",      // dusty lilac
+  card: "#ffffff",                // white cards
+  button: "#f78fb3",              // soft pink buttons
+  white: "#ffffff",
+  black: "#000000"
 }
